@@ -1,4 +1,4 @@
 git config --global user.name 'mariabreu2909'
 git config --global user.email 'mariana.abreu@aluno.senac.rio'
 git config --global core.editor 'code--wait'
-git config --global --list
+git config --global --list.
